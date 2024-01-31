@@ -1,5 +1,6 @@
 # Anomaly-Detection-CCTV
 
+Video showcase : https://youtu.be/Soc63WuzWDY?si=oQV1iZZG30BwKgT_
 
 Anomaly Detection in CCTV Footage using Deep Learning
 This project presents a deep learning-based system for detecting anomalous activities in CCTV footage. Inspired by the Smart India Hackathon challenge, it leverages MediaPipe for efficient pose estimation and an LSTM network for anomaly recognition.
